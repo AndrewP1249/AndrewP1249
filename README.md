@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**AndrewP1249/AndrewP1249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Andrew and I'm a computer science and economics student at Columbia University. Here's some info about me!  
 
-Here are some ideas to get you started:
+💼 **Work experience:**  
+- Software Engineering Intern at MarketAxess [New York, NY. Summer 2025]  
+- Rotational Summer Analyst, Mergers & Acquisitions at TD Securities [New York, NY. Summer 2024]  
+- Data & Analytics Intern at Manhattan Venture Partners [New York, NY. Summer 2023]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏛️ **Columbia involvement:**  
+- Columbia Venture Partners
+- Association of Latino Professionals for America
+- Society of Hispanic Professional Engineers
+- Alpha Kappa Psi
+
+🔥 **Interests:**  
+- Backend software engineering, distributed systems, infrastructure
+- Fitness, cycling, and traveling 
+
+📬 **Contact me:**  
+- [LinkedIn](https://www.linkedin.com/in/andrew-paternostro)  

@@ -13,7 +13,7 @@ My name is Andrew and I'm a computer science and economics student at Columbia U
 - Society of Hispanic Professional Engineers
 - Alpha Kappa Psi
 
-🔥 **Interests:**  
+💡 **Interests:**  
 - Backend software engineering, distributed systems, infrastructure
 - Fitness, cycling, and traveling 
 
